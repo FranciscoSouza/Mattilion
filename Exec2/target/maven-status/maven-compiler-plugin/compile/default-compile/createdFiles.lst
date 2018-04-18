@@ -1,0 +1,4 @@
+com\matillion\exec2\App.class
+com\matillion\exec2\bo\QueryResultObj.class
+com\matillion\exec2\dao\JDBCResultDAO.class
+com\matillion\exec2\dao\ResultDAO.class
